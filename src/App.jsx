@@ -1138,4 +1138,3 @@ export default function EGradeKenya(){
     </>
   );
 }
-export default App;
